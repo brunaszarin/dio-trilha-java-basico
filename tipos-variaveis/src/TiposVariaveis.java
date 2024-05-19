@@ -21,7 +21,7 @@ public class TiposVariaveis {
 
         int numero = 1;
 
-        numero =2; //o valor de uma variável pode alterar no fluxo de um código!
+        numero = 2; //o valor de uma variável pode alterar no fluxo de um código!
 
     }
 }
