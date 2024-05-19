@@ -18,5 +18,10 @@ public class TiposVariaveis {
 		long cpf = 98765432109L; // se começar com zero, talvez tenha que ser outro tipo, e precisa terminar com L.
 		float pi = 3.14F; // precisa sempre terminar com F o tipo float.
 		double salario = 1275.33;
+
+        int numero = 1;
+
+        numero =2; //o valor de uma variável pode alterar no fluxo de um código!
+
     }
 }
