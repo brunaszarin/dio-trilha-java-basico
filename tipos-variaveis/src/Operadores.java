@@ -6,9 +6,9 @@ public class Operadores {
         // A atribuição de valor se dá pelo símbolo de igualdade "="
         // classe Operadores.java
         String nome = "BRUNA";
-        int idade = 22;
+        int idade = 29;
         double peso = 68.5;
-        char sexo = 'M';
+        char sexo = 'F';
         boolean doadorOrgao = false;
         Date dataNascimento = new Date();
 
